@@ -1,0 +1,5 @@
+RequestID,Operation,Address,ArrivalTime
+1,READ,0x1000,0
+2,WRITE,0x2000,2
+3,READ,4096,5
+4,WRITE,8192,8

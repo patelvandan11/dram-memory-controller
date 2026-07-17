@@ -1,0 +1,16 @@
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Simulation Artifacts and State
+.simulation_state.pkl
+simulation_statistics.csv
+graphs/
+
+# Coverage and testing
+.coverage
+htmlcov/
+.pytest_cache/
+.pytest/
