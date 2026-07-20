@@ -6,8 +6,6 @@ The project is designed with clean software architecture, making it suitable for
 
 ---
 
-# Project Overview
-
 Modern processors execute millions of memory operations every second. The memory controller is responsible for scheduling these requests while satisfying DRAM timing constraints.
 
 This project simulates how a DRAM controller works by implementing:
